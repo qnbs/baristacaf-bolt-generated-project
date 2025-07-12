@@ -1,0 +1,16 @@
+{
+      "name": "barista-kaffee-simulator",
+      "private": true,
+      "version": "0.0.0",
+      "type": "module",
+      "scripts": {
+        "dev": "vite"
+      },
+      "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+      },
+      "devDependencies": {
+        "vite": "^4.2.0"
+      }
+    }
